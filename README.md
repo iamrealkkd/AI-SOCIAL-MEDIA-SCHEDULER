@@ -101,3 +101,25 @@ npm run dev
 ---
 
 ## 📁 Project Structure
+```
+AI-SOCIAL-MEDIA-SCHEDULER/
+├── client/          # React frontend
+│   ├── src/
+│   │   ├── pages/
+│   │   ├── components/
+│   │   ├── api/
+│   │   └── assets/
+└── server/          # Node/Express backend
+    ├── routes/
+    ├── models/
+    ├── controllers/
+    └── middleware/
+```
+ 
+---
+ 
+## 🙌 Acknowledgements
+ 
+- [OpenAI](https://openai.com)
+- [Zernio](https://zernio.com)
+- [CodeRabbit](https://coderabbit.ai)
