@@ -1,4 +1,5 @@
 import {useEffect, useState} from "react";
+import {PLATFORMS} from "../assets/assets";
 import {
   ArrowRightIcon,
   CalendarIcon,
